@@ -1,1 +1,2 @@
-Sample page for DSU-AVO
+PyTorch implementation for DSU-AVO
+Source code will be released upon acceptance of the paper.
